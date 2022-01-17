@@ -944,7 +944,7 @@ const get_search_videos= async (quary)=>{
 
 useEffect(()=>{
     // get_trend_videos();
-    // get_music();
+     get_music();
   //   console.log(downloadBtn)
   },[]);
 
