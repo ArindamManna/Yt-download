@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yt-download/static/css/main.e77db3db.css",
+    "main.js": "/Yt-download/static/js/main.1b37d17b.js",
+    "index.html": "/Yt-download/index.html",
+    "static/media/arrow-left-solid.svg": "/Yt-download/static/media/arrow-left-solid.3547ba8fcd9ecba06b51.svg",
+    "static/media/play-circle-solid.svg": "/Yt-download/static/media/play-circle-solid.58b4633ed5640a019772.svg",
+    "main.e77db3db.css.map": "/Yt-download/static/css/main.e77db3db.css.map",
+    "main.1b37d17b.js.map": "/Yt-download/static/js/main.1b37d17b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77db3db.css",
+    "static/js/main.1b37d17b.js"
+  ]
+}
